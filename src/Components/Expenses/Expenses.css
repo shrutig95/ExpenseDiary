@@ -1,0 +1,21 @@
+.back-area {
+  background-color: #0b0813;
+  margin: auto;
+  padding: 1rem;
+  border-radius: 12px;
+  max-width: 75%;
+  margin-bottom: 5px !important;
+}
+
+p {
+  color: #372d6d;
+  margin: auto;
+  align-items: center;
+}
+
+h4 {
+  border-color: aliceblue;
+  text-align: center;
+  color: #d8d8d8;
+  margin: auto;
+}
