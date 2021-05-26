@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ExpenseDiary/static/css/main.18d0f61d.chunk.css",
+    "main.js": "/ExpenseDiary/static/js/main.797af4da.chunk.js",
+    "main.js.map": "/ExpenseDiary/static/js/main.797af4da.chunk.js.map",
+    "runtime-main.js": "/ExpenseDiary/static/js/runtime-main.44264750.js",
+    "runtime-main.js.map": "/ExpenseDiary/static/js/runtime-main.44264750.js.map",
+    "static/css/2.97503911.chunk.css": "/ExpenseDiary/static/css/2.97503911.chunk.css",
+    "static/js/2.c7af1723.chunk.js": "/ExpenseDiary/static/js/2.c7af1723.chunk.js",
+    "static/js/2.c7af1723.chunk.js.map": "/ExpenseDiary/static/js/2.c7af1723.chunk.js.map",
+    "static/js/3.6d300225.chunk.js": "/ExpenseDiary/static/js/3.6d300225.chunk.js",
+    "static/js/3.6d300225.chunk.js.map": "/ExpenseDiary/static/js/3.6d300225.chunk.js.map",
+    "index.html": "/ExpenseDiary/index.html",
+    "static/css/2.97503911.chunk.css.map": "/ExpenseDiary/static/css/2.97503911.chunk.css.map",
+    "static/css/main.18d0f61d.chunk.css.map": "/ExpenseDiary/static/css/main.18d0f61d.chunk.css.map",
+    "static/js/2.c7af1723.chunk.js.LICENSE.txt": "/ExpenseDiary/static/js/2.c7af1723.chunk.js.LICENSE.txt",
+    "static/media/delete.5355cf24.png": "/ExpenseDiary/static/media/delete.5355cf24.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44264750.js",
+    "static/css/2.97503911.chunk.css",
+    "static/js/2.c7af1723.chunk.js",
+    "static/css/main.18d0f61d.chunk.css",
+    "static/js/main.797af4da.chunk.js"
+  ]
+}
